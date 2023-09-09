@@ -1,6 +1,5 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=heyshinde&&style=flat&color=blue) 
 <h2>Hi! I'm Shinde Aditya! 👋</h2> 
-<img align='right' src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230">
 <p><em>AI-ML and Full Stack Web Developer</em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Shinde-Aditya?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyshinde/)](https://www.linkedin.com/in/heyshinde/)
