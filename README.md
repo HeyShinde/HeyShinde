@@ -3,7 +3,7 @@
 <p><em>AI-ML and Full Stack Web Developer</em></p>
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Shinde-Aditya?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyshinde/)](https://www.linkedin.com/in/heyshinde/)
-![GitHub followers](https://img.shields.io/github/followers/chicano85?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/heyshinde?label=Follow&style=social)
 
 ### <img src="https://media.giphy.com/media/Jo7zgRsPUxypoJHK3N/giphy.gif" width="50"> A little more about me...  
 
