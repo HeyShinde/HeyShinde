@@ -3,8 +3,9 @@
 <img align='right' src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230">
 <p><em>AI-ML and Full Stack Web Developer</em></p>
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-Shinde-Aditya?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heyshinde/)](https://www.linkedin.com/in/heyshinde/)
+<a href="https://www.buymeacoffee.com/heyshinde/" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/heyshinde?label=Follow&style=social)
+
 
 ### <img src="https://media.giphy.com/media/Jo7zgRsPUxypoJHK3N/giphy.gif" width="50"> A little more about me...  
 
@@ -12,9 +13,9 @@
 const aditya = {
   surname: "Shinde",
   pronouns: "he" | "him",
-  code: [Javascript, React, HTML, CSS, SASS, NodeJS, Express, Python],
+  code: [Javascript, React, HTML, CSS, Tailwind, NodeJS, Express, Python],
   tools: [Visual Code, Git, GitHub, Gulp, npm],
-  communicationTools: [Trello, Slack, Zoom, Linkedin, GitHub Projects],
+  communicationTools: [ Slack, Zoom, Linkedin, GitHub Projects],
 }
 ```
 
@@ -32,9 +33,23 @@ const aditya = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/heyshinde/ target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/heyshinde target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/heyshinde target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:heyshinde@icloud.com?subject=Hello%20Shinde,%20From%20Github" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.youtube.com/@heyshinde" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-⭐️ From [Shinde](https://github.com/HeyShinde)
+
+<h2  align="center">👀 Check out</h2>
+<p align="center">
+  <a href="https://www.codechef.com/users/heyshinde" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.leetcode.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 
 <!--
 **chicano85/chicano85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
