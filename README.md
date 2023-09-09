@@ -22,9 +22,9 @@ const aditya = {
 #  📊 Stats:
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=heyshinde&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=chartreuse-dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=heyshinde&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=heyshinde)](https://github.com/KnlnKS/leetcode-stats)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=heyshinde&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=heyshinde&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/heyshinde)
+[![Yangshun's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=heyshinde)](https://www.leetcode.com/heyshinde)
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=heyshinde&show_icons=true&count_private=true&hide_border=true&theme=github_dark" />  
@@ -47,7 +47,7 @@ const aditya = {
 <p align="center">
   <a href="https://www.codechef.com/users/heyshinde" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
