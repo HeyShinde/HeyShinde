@@ -1,5 +1,3 @@
-![Profile views counter](https://komarev.com/ghpvc/?username=heyshinde&&style=flat&color=blue)
-<br />
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=FFFF00&width=435&lines=Hi!+I'm+Shinde+Aditya!+%F0%9F%91%8B)](https://github.com/heyshinde)
 <img align='right' src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230">
 <p><em>AI-ML and Full Stack Web Developer</em></p>
