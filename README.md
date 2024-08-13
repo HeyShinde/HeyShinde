@@ -4,7 +4,7 @@
 <img align='right' src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230">
 <p><em>AI-ML and Full Stack Web Developer</em></p>
 
-[comment]: <a href="https://www.buymeacoffee.com/heyshinde/" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 ![GitHub followers](https://img.shields.io/github/followers/heyshinde?label=Follow&style=social)
 
 
