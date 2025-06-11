@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=FFFF00&width=435&lines=Hi!+I'm+Shinde+Aditya!+%F0%9F%91%8B)](https://github.com/heyshinde)
 <img align='right' src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230">
-<p><em>AI-ML and Full Stack Web Developer</em></p>
+<p><em>AI-ML Engineer</em></p>
 
 
 ![GitHub followers](https://img.shields.io/github/followers/heyshinde?label=Follow&style=social)
@@ -8,14 +8,42 @@
 
 ### <img src="https://media.giphy.com/media/Jo7zgRsPUxypoJHK3N/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const aditya = {
-  surname: "Shinde",
-  pronouns: "he" | "him",
-  code: [Javascript, React, HTML, CSS, Tailwind, NodeJS, Express, Python],
-  tools: [Visual Code, Git, GitHub, Gulp, npm],
-  communicationTools: [ Slack, Zoom, Linkedin, GitHub Projects],
-}
+## 👨‍💻 Shinde Aditya — Machine Learning Engineer
+
+> Turning code into cognition. From model weights to agentic intelligence — I build systems that learn, adapt, and deploy at scale.
+
+```python
+class MachineLearningEngineer:
+    def __init__(self):
+        self.name = "Shinde Aditya"
+        self.focus = [
+            "LLMs", "Agentic AI", "Deep Learning", "ML Pipelines", "MLOps"
+        ]
+        self.code = [
+            "Python", "PyTorch", "TensorFlow", "JAX", "Scikit-learn",
+            "NumPy", "Pandas", "Matplotlib", "Seaborn"
+        ]
+        self.mlops = [
+            "MLflow", "Weights & Biases", "DVC", "Docker", "Kubernetes"
+        ]
+        self.agentic_ai = [
+            "LangChain", "LlamaIndex", "Transformers", "RAG Pipelines", "OpenAI API", "Vector DBs"
+        ]
+        self.deployment = [
+            "FastAPI", "Flask", "Streamlit", "Gradio", "AWS SageMaker", "GCP AI Platform"
+        ]
+        self.tools = [
+            "Jupyter", "VS Code", "Git", "GitHub", "Conda", "Poetry"
+        ]
+        self.communication = [
+            "Slack", "Zoom", "Notion", "LinkedIn", "GitHub Projects"
+        ]
+
+    def build(self):
+        return "From prototype to production — AI that performs, learns, and scales."
+
+aditya = MachineLearningEngineer()
+print(aditya.build())
 ```
 
 #  📊 Stats:
@@ -35,7 +63,6 @@ const aditya = {
 <p align="center">
   <a href="https://www.linkedin.com/in/heyshinde/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:heyshinde@icloud.com?subject=Hello%20Shinde,%20From%20Github" target="_blank"><img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.youtube.com/@heyshinde" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
@@ -43,14 +70,12 @@ const aditya = {
 
 <h2  align="center">👀 Check out</h2>
 <p align="center">
-  <a href="https://www.hackerrank.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/heyshinde" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
 <!--
-**chicano85/chicano85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
