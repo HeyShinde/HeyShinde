@@ -45,17 +45,18 @@ class MachineLearningEngineer:
 aditya = MachineLearningEngineer()
 print(aditya.build())
 ```
+<details open> 
+  <summary><h2>📘 My Top Open Source Projects</h2></summary>
 
-#  📊 Stats:
+  <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
+  <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
+  <p align="left">
+    <a href="https://github.com/pybrainn/ml-assert"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pybrainn&repo=ml-assert&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/pybrainn/torch-secorder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pybrainn&repo=torch-secorder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+  </p>
 
-
-![](https://github-readme-activity-graph.cyclic.app/graph?username=heyshinde&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph&theme=github_dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=heyshinde&theme=github_dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/heyshinde)
-
-
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=heyshinde&show_icons=true&count_private=true&hide_border=true&theme=github_dark)](https://github.com/heyshinde)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=heyshinde&layout=compact&theme=github_dark)](https://github.com/heyshinde)
-
+[//]: # (<a href="https://github.com/heyshinde?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>)
+</details>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to know you more!</b> 😊</em>
 
