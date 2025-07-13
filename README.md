@@ -2,7 +2,7 @@
 <img align='right' src="https://media3.giphy.com/media/3iyKHMIKg5VWG6qHUm/giphy.gif" width="230">
 <p><em>Machine Learning Engineer | Building Agentic AI & Scalable ML Systems</em></p>
 
-<h3 align="center">📄 <a href="https://www.heyshinde.com/resume.pdf">View My Resume</a> || 🌐 <a href="https://www.heyshinde.com/">Visit My Portfolio</a></h3>
+<h3 align="center">📄 <a href="https://www.heyshinde.com/resume.pdf" target="_blank" rel="follow">View My Resume</a> || 🌐 <a href="https://www.heyshinde.com/" target="_blank" rel="follow">Visit My Portfolio</a></h3>
 
 <!-- ![GitHub followers](https://img.shields.io/github/followers/heyshinde?label=Follow&style=social) -->
 
