@@ -53,8 +53,8 @@ print(aditya.build())
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
     <a href="https://github.com/heyshinde/devflow"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heyshinde&repo=devflow&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/pybrainn/ml-assert"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pybrainn&repo=ml-assert&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/pybrainn/torch-secorder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=pybrainn&repo=torch-secorder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+    <a href="https://github.com/heyshinde/ml-assert"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heyshinde&repo=ml-assert&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/heyshinde/torch-secorder"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=heyshinde&repo=torch-secorder&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   </p>
 
 [//]: # (<a href="https://github.com/heyshinde?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>)
