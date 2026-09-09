@@ -46,7 +46,7 @@ class MachineLearningEngineer:
 aditya = MachineLearningEngineer()
 print(aditya.build())
 ```
-[![Shinde Aditya's InitNode Proof of Work](https://www.initnode.dev/api/badge/@heyshinde)](https://www.initnode.dev/@heyshinde)
+[![Shinde Aditya's InitNode Proof of Work](https://www.initnode.dev/api/badge/@heyshinde?theme=ink)](https://www.initnode.dev/@heyshinde)
 
 <details open> 
   <summary><h2>📘 My Top Open Source Projects</h2></summary>
